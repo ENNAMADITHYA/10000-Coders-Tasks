@@ -1,2 +1,2 @@
-# 10000-Coders-Tasks
+-Tasks
 day1 assignment tasks
